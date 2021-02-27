@@ -5,4 +5,4 @@ Example usage:
 
 javac *.java
 
-java CengVideoRunner <order> <inputFileName> <enableGUIFlag>
+java CengVideoRunner order inputFileName enableGUIFlag
